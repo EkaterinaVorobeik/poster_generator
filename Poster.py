@@ -1,6 +1,7 @@
 import random as r
 from datetime import datetime
 import colorsys
+from drawBot import *
 
 for i in range(30):
     newPage('A3')
